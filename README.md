@@ -1,1 +1,6 @@
-# job-board
+# React + Vite
+
+Job Portal app for practice
+
+
+
